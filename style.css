@@ -5,6 +5,7 @@ margin: 0%;
 body{
     background-size: cover;
     background-repeat: no-repeat;
+<<<<<<< HEAD
     background-image: url(./istockphoto-1131795557-1024x1024.jpg);
 }
 p{
@@ -12,3 +13,7 @@ p{
     color: darkblue;
     size: 100px;
 }
+=======
+    background-image: url(shopping-cart/25-30-year-old-blonde-hair-blue-dress);
+}
+>>>>>>> 119fe38aa22fcdb4114b4f120da2431cdd0330b2
