@@ -5,5 +5,10 @@ margin: 0%;
 body{
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url(./images/g2.jpg);
+    background-image: url(./istockphoto-1131795557-1024x1024.jpg);
+}
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: darkblue;
+    size: 100px;
 }
